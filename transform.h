@@ -1,3 +1,6 @@
+/*
+functions replaced in shape.cpp
+
 #pragma once
 #include "shape.h"
 
@@ -15,3 +18,4 @@ private:
     Shape shape;
     void applyTransform(int index, int factor, char axis);
 };
+*/
