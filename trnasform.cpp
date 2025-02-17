@@ -1,3 +1,8 @@
+/* 
+
+functions replaced in shape.cpp
+
+
 #include "transform.h"
 
 Shape Transform::shift(int dx, int dy, int dz) {
@@ -36,3 +41,4 @@ void Transform::applyTransform(int index, int factor, char axis) {
         shape.coords[i] *= factor;
     }
 }
+*/
